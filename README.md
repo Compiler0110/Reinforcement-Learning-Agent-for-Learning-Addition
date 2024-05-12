@@ -10,7 +10,7 @@ The state represents the current addition problem (two random numbers).
 The action represents the number the agent selects to add to the first number.
 The reward is +1 for a correct solution and -1 for an incorrect solution.
 
-##Agent Setup:
+# Agent Setup:
 
 Implement a Q-learning agent to learn to solve addition problems.
 The agent uses a Q-table to store action-values for each state-action pair.
